@@ -1,0 +1,18 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-warehouse-resource-reads-rmq-kube/SAP_API_Caller/caller.go#L52",
+	"function": "sap-api-integrations-warehouse-resource-reads-rmq-kube/SAP_API_Caller.(*SAPAPICaller).Header",
+	"level": "INFO",
+	"message": {
+		"EWMWarehouse": "",
+		"EWMResource": "",
+		"UserName": "",
+		"EWMResourceGroup": "",
+		"EWMResourceType": "",
+		"WarehouseOrderQueue": "",
+		"EWMCurrentQueue": "",
+		"EWMStorTypeOfLastWhseTaskConf": "",
+		"EWMResourceLogonDateTime": 0,
+		"EWMRsceIsLoggedOntoByCurUser": false
+	},
+	"time": "2022-02-21T16:37:15+09:00"
+}

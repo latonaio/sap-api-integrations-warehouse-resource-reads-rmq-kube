@@ -1,0 +1,22 @@
+{
+	"connection_key": "response",
+	"result": true,
+	"redis_key": "abcdefg",
+	"filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
+	"WarehouseResource": {
+		"EWMWarehouse": "1050",
+		"EWMResource": "RES1",
+		"UserName": "",
+		"EWMResourceGroup": "",
+		"EWMResourceType": "",
+		"WarehouseOrderQueue": "",
+		"EWMCurrentQueue": "",
+		"EWMStorTypeOfLastWhseTaskConf": "",
+		"EWMResourceLogonDateTime": null,
+		"EWMRsceIsLoggedOntoByCurUser": false
+	},
+	"api_schema": "api_warehouse_resource_2/srvd_a2x/sap/warehouseresource/0001",
+	"accepter": ["Header"],
+	"EWMWarehouse": "1050",
+	"deleted": false
+}
